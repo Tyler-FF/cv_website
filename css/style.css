@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.intro {
+    margin: 0;
+    padding: 0;
+    background-color: #2A403D;
+}
+
+.navlinks {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 20px;
+    height: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+#title_card {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: auto;
+    height: 450px;
+}
+
+#heading {
+
+}
+
+#title {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 125px;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+#intro_subtext {
+    font-family: 'Red Hat Mono', monospace;
+    color: #FFFFFF;
+    font-size: 24px;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+#profile_image {
+
+}
